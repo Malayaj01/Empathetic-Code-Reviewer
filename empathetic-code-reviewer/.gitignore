@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter and notebook files
+.ipynb_checkpoints/
+
+# Test and coverage
+.coverage
+htmlcov/
+
+# Output and logs
+*.log
+*.out
+
+# Other
+*.bak
+*.swp

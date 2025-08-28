@@ -1,0 +1,7 @@
+{
+  "code_snippet": "def calculate_total(prices):\n    total = 0\n    for price in prices:\n        total += price\n    return total",
+  "review_comments": [
+    "Use built-in sum instead of manual loop.",
+    "Function name could be more descriptive."
+  ]
+}

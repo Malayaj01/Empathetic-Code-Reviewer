@@ -1,0 +1,8 @@
+{
+  "code_snippet": "def process_data(data):\n    result = []\n    for item in data:\n        if item > 0:\n            result.append(item * 2)\n    return result",
+  "review_comments": [
+    "This is slow and inefficient",
+    "Use list comprehension instead",
+    "Variable names could be more descriptive"
+  ]
+}

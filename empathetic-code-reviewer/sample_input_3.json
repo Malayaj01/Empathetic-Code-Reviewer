@@ -1,0 +1,8 @@
+{
+  "code_snippet": "def filter_even(numbers):\n    return [n for n in numbers if n % 2 == 0]",
+  "review_comments": [
+    "Good use of list comprehension.",
+    "Consider adding type hints.",
+    "Add a docstring."
+  ]
+}
